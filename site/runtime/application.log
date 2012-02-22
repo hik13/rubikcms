@@ -1,0 +1,188 @@
+2011/12/28 12:04:34 [warning] [application] Не удалось присвоить небезопасный атрибут "group_permission" класса "GroupRole".
+in Z:\home\qa.sait\www\protected\modules\usermanager\controllers\GrouproleController.php (35)
+in Z:\home\qa.sait\www\protected\components\controller\BackController.php (35)
+in Z:\home\qa.sait\www\index.php (9)
+2011/12/28 12:21:16 [warning] [application] Не удалось присвоить небезопасный атрибут "group_permission" класса "GroupRole".
+in Z:\home\qa.sait\www\protected\modules\usermanager\controllers\GrouproleController.php (35)
+in Z:\home\qa.sait\www\protected\components\controller\BackController.php (35)
+in Z:\home\qa.sait\www\index.php (9)
+2011/12/28 12:21:27 [warning] [application] Не удалось присвоить небезопасный атрибут "group_permission" класса "GroupRole".
+in Z:\home\qa.sait\www\protected\modules\usermanager\controllers\GrouproleController.php (35)
+in Z:\home\qa.sait\www\protected\components\controller\BackController.php (35)
+in Z:\home\qa.sait\www\index.php (9)
+2011/12/28 12:24:10 [warning] [application] Не удалось присвоить небезопасный атрибут "group_permission" класса "GroupRole".
+in Z:\home\qa.sait\www\protected\modules\usermanager\controllers\GrouproleController.php (35)
+in Z:\home\qa.sait\www\protected\components\controller\BackController.php (35)
+in Z:\home\qa.sait\www\index.php (9)
+2011/12/28 12:24:24 [warning] [application] Не удалось присвоить небезопасный атрибут "group_permission" класса "GroupRole".
+in Z:\home\qa.sait\www\protected\modules\usermanager\controllers\GrouproleController.php (35)
+in Z:\home\qa.sait\www\protected\components\controller\BackController.php (35)
+in Z:\home\qa.sait\www\index.php (9)
+2011/12/28 12:24:45 [warning] [application] Не удалось присвоить небезопасный атрибут "modulDescription" класса "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (139)
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (121)
+in Z:\home\qa.sait\www\protected\modules\modulemanager\controllers\ModuleController.php (28)
+2011/12/28 12:24:45 [warning] [application] Не удалось присвоить небезопасный атрибут "modulePermission" класса "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (139)
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (121)
+in Z:\home\qa.sait\www\protected\modules\modulemanager\controllers\ModuleController.php (28)
+2011/12/28 12:25:00 [warning] [application] Не удалось присвоить небезопасный атрибут "group_permission" класса "GroupRole".
+in Z:\home\qa.sait\www\protected\modules\usermanager\controllers\GrouproleController.php (35)
+in Z:\home\qa.sait\www\protected\components\controller\BackController.php (35)
+in Z:\home\qa.sait\www\index.php (9)
+2011/12/28 12:25:24 [warning] [application] Не удалось присвоить небезопасный атрибут "group_permission" класса "GroupRole".
+in Z:\home\qa.sait\www\protected\modules\usermanager\controllers\GrouproleController.php (35)
+in Z:\home\qa.sait\www\protected\components\controller\BackController.php (35)
+in Z:\home\qa.sait\www\index.php (9)
+2011/12/29 11:10:45 [warning] [application] Не удалось присвоить небезопасный атрибут "group_permission" класса "GroupRole".
+in Z:\home\qa.sait\www\protected\modules\usermanager\controllers\GrouproleController.php (35)
+in Z:\home\qa.sait\www\protected\components\controller\BackController.php (35)
+in Z:\home\qa.sait\www\index.php (9)
+2011/12/29 12:11:03 [warning] [application] Не удалось присвоить небезопасный атрибут "modulDescription" класса "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (139)
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (121)
+in Z:\home\qa.sait\www\protected\modules\modulemanager\controllers\ModuleController.php (28)
+2011/12/29 12:11:03 [warning] [application] Не удалось присвоить небезопасный атрибут "modulePermission" класса "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (139)
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (121)
+in Z:\home\qa.sait\www\protected\modules\modulemanager\controllers\ModuleController.php (28)
+2011/12/29 12:33:04 [warning] [application] Не удалось присвоить небезопасный атрибут "group_permission" класса "GroupRole".
+in Z:\home\qa.sait\www\protected\modules\usermanager\controllers\GrouproleController.php (35)
+in Z:\home\qa.sait\www\protected\components\controller\BackController.php (35)
+in Z:\home\qa.sait\www\index.php (9)
+2012/01/03 15:37:46 [warning] [application] Не удалось присвоить небезопасный атрибут "banner_url" класса "Banner".
+in Z:\home\qa.sait\www\protected\modules\blockmanager\controllers\BannerController.php (64)
+in Z:\home\qa.sait\www\protected\components\controller\BackController.php (34)
+in Z:\home\qa.sait\www\index.php (9)
+2012/02/06 16:14:45 [warning] [application] Failed to set unsafe attribute "required" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (93)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (95)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (54)
+2012/02/06 16:14:45 [warning] [application] Failed to set unsafe attribute "moduleID" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (93)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (95)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (54)
+2012/02/06 16:14:45 [warning] [application] Failed to set unsafe attribute "modulDescription" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (93)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (95)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (54)
+2012/02/06 16:14:45 [warning] [application] Failed to set unsafe attribute "modulePermission" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (93)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (95)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (54)
+2012/02/15 15:35:02 [warning] [application] Failed to set unsafe attribute "required" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (92)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/15 15:35:02 [warning] [application] Failed to set unsafe attribute "moduleID" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (92)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/15 15:35:02 [warning] [application] Failed to set unsafe attribute "modulDescription" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (92)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/15 15:35:02 [warning] [application] Failed to set unsafe attribute "modulePermission" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (92)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/15 15:38:19 [warning] [application] Failed to set unsafe attribute "required" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (93)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/15 15:38:19 [warning] [application] Failed to set unsafe attribute "moduleID" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (93)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/15 15:38:19 [warning] [application] Failed to set unsafe attribute "modulDescription" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (93)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/15 15:38:19 [warning] [application] Failed to set unsafe attribute "modulePermission" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (93)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/15 15:52:13 [warning] [application] Failed to set unsafe attribute "required" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (92)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/15 15:52:13 [warning] [application] Failed to set unsafe attribute "moduleID" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (92)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/15 15:52:13 [warning] [application] Failed to set unsafe attribute "modulDescription" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (92)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/15 15:52:13 [warning] [application] Failed to set unsafe attribute "modulePermission" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (92)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/15 15:59:36 [warning] [application] Failed to set unsafe attribute "required" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (92)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/15 15:59:36 [warning] [application] Failed to set unsafe attribute "moduleID" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (92)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/15 15:59:36 [warning] [application] Failed to set unsafe attribute "modulDescription" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (92)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/15 15:59:36 [warning] [application] Failed to set unsafe attribute "modulePermission" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (92)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/20 10:41:07 [warning] [application] Failed to set unsafe attribute "required" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (92)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/20 10:41:07 [warning] [application] Failed to set unsafe attribute "moduleID" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (92)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/20 10:41:07 [warning] [application] Failed to set unsafe attribute "modulDescription" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (92)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/20 10:41:07 [warning] [application] Failed to set unsafe attribute "modulePermission" of "Module".
+in Z:\home\qa.sait\www\protected\modules\modulemanager\models\Module.php (69)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (92)
+in Z:\home\qa.sait\www\protected\extensions\ModulHelper.php (53)
+2012/02/20 11:57:23 [error] [system.db.CDbCommand] Error in preparing SQL: 
+in Z:\home\qa.sait\www\protected\controllers\ContentController.php (51)
+in Z:\home\qa.sait\www\index.php (10)
+2012/02/20 11:57:23 [error] [system.db.CDbCommand] Не удалось выполнить CDbCommand::execute(): CDbCommand не удалось подготовить SQL-запрос: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty. Выполнявшийся SQL-запрос: .
+in Z:\home\qa.sait\www\protected\controllers\ContentController.php (51)
+in Z:\home\qa.sait\www\index.php (10)
+2012/02/20 11:57:44 [error] [system.db.CDbCommand] Error in preparing SQL: 
+in Z:\home\qa.sait\www\protected\controllers\ContentController.php (51)
+in Z:\home\qa.sait\www\index.php (10)
+2012/02/20 11:57:44 [error] [system.db.CDbCommand] CDbCommand::execute() failed: CDbCommand failed to prepare the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty. The SQL statement executed was: .
+in Z:\home\qa.sait\www\protected\controllers\ContentController.php (51)
+in Z:\home\qa.sait\www\index.php (10)
+2012/02/20 11:57:47 [error] [system.db.CDbCommand] Error in preparing SQL: 
+in Z:\home\qa.sait\www\protected\controllers\ContentController.php (51)
+in Z:\home\qa.sait\www\index.php (10)
+2012/02/20 11:57:47 [error] [system.db.CDbCommand] CDbCommand::execute() failed: CDbCommand failed to prepare the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty. The SQL statement executed was: .
+in Z:\home\qa.sait\www\protected\controllers\ContentController.php (51)
+in Z:\home\qa.sait\www\index.php (10)
+2012/02/20 11:58:13 [error] [system.db.CDbCommand] Error in preparing SQL: 
+in Z:\home\qa.sait\www\protected\controllers\ContentController.php (52)
+in Z:\home\qa.sait\www\index.php (10)
+2012/02/20 11:58:13 [error] [system.db.CDbCommand] CDbCommand::execute() failed: CDbCommand failed to prepare the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty. The SQL statement executed was: .
+in Z:\home\qa.sait\www\protected\controllers\ContentController.php (52)
+in Z:\home\qa.sait\www\index.php (10)
+2012/02/20 12:15:59 [error] [system.db.CDbCommand] Error in preparing SQL: update content set status_id='1' where contents_id='61'
+in Z:\home\qa.sait\www\protected\controllers\ContentController.php (52)
+in Z:\home\qa.sait\www\index.php (10)
+2012/02/20 12:15:59 [error] [system.db.CDbCommand] CDbCommand::execute() failed: CDbCommand failed to prepare the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'contents_id' in 'where clause'. The SQL statement executed was: update content set status_id='1' where contents_id='61'.
+in Z:\home\qa.sait\www\protected\controllers\ContentController.php (52)
+in Z:\home\qa.sait\www\index.php (10)
+2012/02/20 12:22:42 [error] [system.db.CDbCommand] Error in preparing SQL: update content set status_id='ffffff' where contents_id='61'
+in Z:\home\qa.sait\www\protected\controllers\ContentController.php (51)
+in Z:\home\qa.sait\www\index.php (10)
+2012/02/20 12:22:42 [error] [system.db.CDbCommand] CDbCommand::execute() failed: CDbCommand failed to prepare the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'contents_id' in 'where clause'. The SQL statement executed was: update content set status_id='ffffff' where contents_id='61'.
+in Z:\home\qa.sait\www\protected\controllers\ContentController.php (51)
+in Z:\home\qa.sait\www\index.php (10)

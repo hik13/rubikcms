@@ -1,0 +1,16 @@
+DROP TABLE IF EXISTS `catalog`;
+DROP TABLE IF EXISTS `catalog_category`;
+DROP TABLE IF EXISTS `catalog_dimension`;
+DROP TABLE IF EXISTS `catalog_dimension_group`;
+DROP TABLE IF EXISTS `catalog_essence`;
+DROP TABLE IF EXISTS `catalog_item`;
+DROP TABLE IF EXISTS `catalog_item_images`;
+DROP TABLE IF EXISTS `catalog_manufacturer`;
+DROP TABLE IF EXISTS `catalog_parameter`;
+DROP TABLE IF EXISTS `catalog_parameter_group`;
+DROP TABLE IF EXISTS `catalog_parameter_master_value`;
+DROP TABLE IF EXISTS `catalog_selectable`;
+DROP TABLE IF EXISTS `catalog_value_boolean`;
+DROP TABLE IF EXISTS `catalog_value_common`;
+DROP TABLE IF EXISTS `catalog_value_literal_uniq`;
+DROP TABLE IF EXISTS `catalog_value_numerical_uniq`;

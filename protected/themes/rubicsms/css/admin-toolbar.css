@@ -1,0 +1,93 @@
+.admin-toolbar{
+	background:url(../theme-images/admin-toolbar/admin-toolbar-bg.png) repeat-x top left;	
+}
+
+.current-user{
+	background:url(../theme-images/admin-toolbar/icon-users.png) no-repeat left 55%;
+}
+
+.cms-go-to-system{
+	background:url(../theme-images/admin-toolbar/icon-go-to-system.png) no-repeat left 60%;
+}
+
+.cms-go-to-edit{
+	background:url(../theme-images/admin-toolbar/icon-go-to-edit.png) no-repeat left 60%;
+}
+
+/** == For ie6 == **/ 
+
+*html .admin-toolbar{
+	background:url(../theme-images/admin-toolbar/admin-toolbar-bg-ie6.png) repeat-x top left;	
+}
+
+*html .current-user{
+	background:url(../theme-images/admin-toolbar/icon-users-ie6.png) no-repeat left 55%;
+}
+
+*html .go-to-system{
+	background:url(../theme-images/admin-toolbar/icon-go-to-system-ie6.png) no-repeat left 60%;
+}
+
+/** == End of For ie6 == **/
+
+.admin-toolbar a{
+	text-decoration:underline;
+}
+
+.admin-toolbar a:hover{
+	text-decoration:none;
+}
+
+
+.admin-toolbar{
+	height:38px;
+	padding-top:7px;
+}
+
+.logout{
+	float:right;
+}
+
+.current-user{
+	float:right;
+	margin:0px 18px 0px 0px;
+	padding:0px 0px 0px 17px;
+}
+
+.cms-go-to-system{
+	float:left;
+	padding:0px 0px 0px 20px;
+	margin-right:20px;
+}
+
+
+.cms-go-to-edit{
+	float:left;
+	padding:0px 0px 0px 20px;
+	margin-right:20px;
+}
+
+.cms-language-select{
+	float:right;
+	margin-right:9px;
+}
+
+.cms-language-select li{
+	float:left;
+	margin-right:9px;
+	padding:0px 5px 2px 5px;
+}
+
+.cms-language-select .cms-active-language{
+	background:#eb185d;
+	-webkit-border-radius:2px;
+	-moz-border-radius:2px;
+	border-radius:2px;		
+}
+
+
+.admin-toolbar, .admin-toolbar a{
+	color:#fff;
+}
+
+
